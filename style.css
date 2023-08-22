@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Borel&family=Lato:ital@1&family=Poppins:ital,wght@0,400;1,600&family=Work+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Borel&family=Lato:ital@1&family=Poppins:ital,wght@0,400;0,600;1,500;1,600&family=Work+Sans&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+    color: white;
+}
+h1{
+    font-family: 'Lato', sans-serif;
+    color: brown;
+    font-size: 60px;
+    font-weight: 900;
+}
+h3{
+    position: absolute;
+    left: 590px;
+    top: 100px;
+    background-color: rgb(red, green, blue);
+    color: black;
+    width: 163px;
+    height: 24px;
+
+}
+h4{
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: 400px;
+}
+.block{
+    text-align: center;
+}
+canvas{
+    display: block;
+    background-color:rgb(226, 213, 231);
+    margin: 20px;
+}
+input{
+    margin: 20px 0px 0px 20px;
+}
